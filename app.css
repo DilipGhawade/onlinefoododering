@@ -45,7 +45,7 @@ form {
   gap: 0.2rem;
 }
 
-.food-list {
+/* .food-list {
   display: flex;
   flex-direction: row;
   gap: 0.2rem;
@@ -54,4 +54,4 @@ form {
   display: flex;
   flex-direction: row;
   gap: 0.2rem;
-}
+} */
